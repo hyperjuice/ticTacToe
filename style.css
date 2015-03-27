@@ -1,0 +1,26 @@
+#board {
+  width: 31em;
+  height: 30em;
+  position: relative;
+  top: 30px;
+  left: 25%;
+}
+
+.box {
+  width: 30%; /*Thanks Andy P.*/
+  height: 30%;
+  border: 1px solid black;
+  display: inline-block;
+  margin-bottom: 4px;
+  font-size: 160px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+body {
+  background-color: #b0c4de;
+}
+
+
+
+
